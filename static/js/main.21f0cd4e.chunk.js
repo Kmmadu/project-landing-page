@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{11:function(e,n,a){"use strict";a.r(n);var t=a(0),r=a.n(t),c=a(2);var o=function(){return r.a.createElement("div",{className:"App"},r.a.createElement("header",{className:"App-header"},r.a.createElement("h1",null,"Welcome to My Landing Page")))};a.n(c).a.render(r.a.createElement(o,null),document.getElementById("root"))},3:function(e,n,a){e.exports=a(11)}},[[3,1,2]]]);
+//# sourceMappingURL=main.21f0cd4e.chunk.js.map
